@@ -1,7 +1,7 @@
 ##                                      Hi 👋, I'm Sai Subha Kanthi Pusapati  
 ###                          🚀 AI/ML Enthusiast |  Problem Solver | Aspiring Data Scientist  
 
-I’m passionate about AI, Machine Learning, and solving complex problems through technology.I love working with data, optimizing models, and exploring new tools to build impactful solutions.Whether it’s AI, Data Science, or Software Development, I’m always eager to learn and grow.  
+I have a strong interest in AI and Machine Learning, always eager to explore new ideas. I enjoy working with data, building models, and solving real-world challenges. My focus is on creating efficient and impactful AI-driven solutions. I believe in continuous learning to stay updated with evolving technologies. Experimenting with different approaches helps me refine my problem-solving skills.
 
 ### 🔹 What I’m Up To:  
 • 💻 Currently working on **AI/ML, Python, LLMs, and Data Science**  
